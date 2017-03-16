@@ -25,7 +25,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: html5up-solid-state
+theme: minima
 gems:
   - jekyll-feed
 exclude:
